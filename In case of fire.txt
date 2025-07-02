@@ -3,3 +3,11 @@ In case of fire
 1. git commit
 2. git push
 3. git leave building
+
+git 변수 설정
+
+git remote add 변수명 주소~~
+
+나같은 경우면 
+
+git remote add origin https://github.com/Reflow-Soldering/Git_Is_Terrible.git
