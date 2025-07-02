@@ -31,3 +31,17 @@ git push
 
 
 팀원 B가 작성했습니다.
+
+
+회사 출근하면 항상 와가꼬 git pull부터 해라 이녀석아
+
+안그러잖아?
+To https://github.com/Reflow-Soldering/Git_Is_Terrible.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Reflow-Soldering/Git_Is_Terrible.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+에러먹음
