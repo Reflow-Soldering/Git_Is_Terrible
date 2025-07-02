@@ -11,3 +11,21 @@ git remote add 변수명 주소~~
 나같은 경우면 
 
 git remote add origin https://github.com/Reflow-Soldering/Git_Is_Terrible.git
+
+git push -u origin main 한 번 썼으면
+
+이후에 바로 push 가능
+
+ex)
+첫 push
+
+git push -u origin main
+
+수정 후 저장 필수 
+
+git add .
+
+git commit -m '수정???'
+
+git push
+
