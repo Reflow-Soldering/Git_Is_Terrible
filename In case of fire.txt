@@ -1,0 +1,5 @@
+In case of fire
+
+1. git commit
+2. git push
+3. git leave building
