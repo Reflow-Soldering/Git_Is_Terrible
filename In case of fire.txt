@@ -29,3 +29,5 @@ git commit -m '수정???'
 
 git push
 
+
+팀원 B가 작성했습니다.
